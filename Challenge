@@ -1,0 +1,9 @@
+nilai : A B C D E
+
+0 - 25 => E
+26 - 50 => D
+51 - 75 => C 
+76 - 90 => B
+91 - 100 => A 
+melebihi 100 => invalid number
+
